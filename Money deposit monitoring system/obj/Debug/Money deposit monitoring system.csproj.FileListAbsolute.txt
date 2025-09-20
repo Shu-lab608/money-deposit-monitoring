@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\bin\Debug\Money deposit monitoring system.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\bin\Debug\Money deposit monitoring system.exe
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\bin\Debug\Money deposit monitoring system.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money deposit monitoring system.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money_deposit_monitoring_system.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money_deposit_monitoring_system.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money deposit monitoring system.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money deposit monitoring system.exe
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money deposit monitoring system.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money_deposit_monitoring_system.Form2.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Money deposit monitoring system\Money deposit monitoring system\obj\Debug\Money_deposit_monitoring_system.Form3.resources
