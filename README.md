@@ -31,6 +31,17 @@ This project was developed to practice and demonstrate **C# database connectivit
 - **Connector:** MySQL Connector for .NET (`MySql.Data`)  
 
 ---
+Configure Database Connection
+
+Update your connection string (App.config or directly in your code):
+<connectionStrings>
+  <add name="MoneyDB"
+       connectionString="server=localhost;user id=root;password=;database=money_db;"
+       providerName="MySql.Data.MySqlClient" />
+</connectionStrings>
+
+
+---
 
 ## Installation & Setup
 
@@ -38,14 +49,3 @@ This project was developed to practice and demonstrate **C# database connectivit
 ```bash
 git clone https://github.com/Shu-lab608/money-deposit-monitoring.git
 cd money-deposit-monitoring
-
-
-Configure Database Connection
-
-Update your connection string (App.config or directly in your code):
-
-<connectionStrings>
-  <add name="MoneyDB"
-       connectionString="server=localhost;user id=root;password=;database=money_db;"
-       providerName="MySql.Data.MySqlClient" />
-</connectionStrings>
